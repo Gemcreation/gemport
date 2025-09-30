@@ -113,7 +113,7 @@ a:hover {
   position: absolute;
   top: 100%;
   right: -15px;
-  background-color: rgb(205, 92, 92);
+  background-color: rgb(255, 255, 255);
   width: 100px;
   max-height: 0;
   overflow: hidden;
